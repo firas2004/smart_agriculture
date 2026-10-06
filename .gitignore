@@ -1,0 +1,7 @@
+# Scripts and extraction artifacts
+generate_all.py
+genrateall.py
+pdf_content.txt
+pdfcontent.txt
+*.log
+__pycache__/
